@@ -1,2 +1,2 @@
-# gittext_xj655
+# gittest_xj655
 Hello world!
